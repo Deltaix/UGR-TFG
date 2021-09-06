@@ -7,4 +7,4 @@ En este repositorio se encuentran:
 
 - Las demos de Unity.
 - Los dos modelos entrenados.
-- Los scripts de Python y C#
+- Los scripts de Python y C#.
